@@ -1,0 +1,3 @@
+스펙 : react, react-query, vite, react-router-dom, typeScript, scss
+
+1일차 : 초기세팅, routing, 상품목록, 상품상세 진행, 무한스크롤 소스 작성
