@@ -6,7 +6,6 @@ import {getClient} from "./queryClient";
 import {routes} from './routes'
 import Gnb from "./components/gnb";
 
-
 function App() {
   const elem = useRoutes(routes)
   const queryClient = getClient();
